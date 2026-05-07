@@ -13,16 +13,16 @@ public:
             reverse(nums.begin(),nums.end());
             return;
         }
-        int small = INT_MAX;
-        int smallind = -1;
-        for(int i=index+1;i<nums.size();i++){
-            if(nums[i]>nums[index]&&nums[i]<small){
-                small = nums[i];
-                smallind = i;
+        
+       for (int i = nums.size() - 1; i > index; i--) {
+            
+            if (nums[i] > nums[index]) {
+                swap(nums[i], nums[index]);
+                break;
             }
         }
-        swap(nums[index],nums[smallind]);
-        sort(nums.begin()+index+1,nums.end());
+       
+        reverse(nums.begin()+index+1,nums.end());
 
     }
 };
