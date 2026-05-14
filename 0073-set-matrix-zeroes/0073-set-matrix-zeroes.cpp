@@ -11,19 +11,12 @@ public:
                 }
             }
         }
-        for(int i=0;i<row.size();i++){
+       for(int i =0;i<matrix.size();i++){
             for(int j=0;j<matrix[0].size();j++){
-                if(row[i]==1){
+                if(row[i] || col[j]){
                     matrix[i][j]=0;
                 }
             }
-        }
-        for(int i=0;i<col.size();i++){
-            for(int j=0;j<matrix.size();j++){
-                if(col[i]==1){
-                    matrix[j][i]=0;
-                }
-            }
-        }
+       }
     }
 };
