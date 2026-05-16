@@ -6,10 +6,6 @@ public:
             if(i==1){
                 res[i-1].push_back(1);
             }
-            else if(i==2){
-                res[i-1].push_back(1);
-                res[i-1].push_back(1);
-            }
             else{
                 res[i-1].push_back(1);
                 int temp1=0 , temp2 = 1;
