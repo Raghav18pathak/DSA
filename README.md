@@ -35,6 +35,7 @@ DSA mastering journey
 | [0540-single-element-in-a-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Raghav18pathak/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Raghav18pathak/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Raghav18pathak/DSA/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raghav18pathak/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Raghav18pathak/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -76,6 +77,7 @@ DSA mastering journey
 | [0268-missing-number](https://github.com/Raghav18pathak/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Raghav18pathak/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Raghav18pathak/DSA/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
