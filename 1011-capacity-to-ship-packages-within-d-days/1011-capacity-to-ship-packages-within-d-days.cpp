@@ -10,7 +10,7 @@ public:
         int ans= -1;
         while(low<=high){
             int mid = (low+high)/2;
-            int innerSum=0,daysCount=0;
+            int innerSum=0,daysCount=1;
             for(int j = 0;j<nums.size();j++){
                 if(innerSum+nums[j]<=mid) innerSum +=nums[j];
                 else {
@@ -18,7 +18,7 @@ public:
                     daysCount++;
                 }
             }
-            daysCount++;
+            
             if(daysCount > days){
                 low = mid+1;
             }
