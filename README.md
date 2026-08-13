@@ -153,4 +153,16 @@ DSA mastering journey
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Raghav18pathak/DSA/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Raghav18pathak/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Raghav18pathak/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Raghav18pathak/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
