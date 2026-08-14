@@ -64,6 +64,7 @@ DSA mastering journey
 | [0048-rotate-image](https://github.com/Raghav18pathak/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Raghav18pathak/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Raghav18pathak/DSA/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Raghav18pathak/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,11 +155,13 @@ DSA mastering journey
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Raghav18pathak/DSA/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Raghav18pathak/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Raghav18pathak/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Raghav18pathak/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Raghav18pathak/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
