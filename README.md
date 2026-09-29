@@ -31,6 +31,7 @@ DSA mastering journey
 | [0162-find-peak-element](https://github.com/Raghav18pathak/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Raghav18pathak/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Raghav18pathak/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Raghav18pathak/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Raghav18pathak/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Raghav18pathak/DSA/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ DSA mastering journey
 | [0013-roman-to-integer](https://github.com/Raghav18pathak/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Raghav18pathak/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Raghav18pathak/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Raghav18pathak/DSA/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Raghav18pathak/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
@@ -205,4 +207,24 @@ DSA mastering journey
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Raghav18pathak/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
