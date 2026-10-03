@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         vector<int> ans = {-1,-1};
-        if (nums.empty()) return {-1, -1};
+        if (nums.empty()) return ans;
         int low = 0, high = nums.size()-1;
         while(low<=high){
             int mid = (low+high)/2;
