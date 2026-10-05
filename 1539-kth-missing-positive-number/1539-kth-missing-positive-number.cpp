@@ -9,6 +9,6 @@ public:
             if(missingcount<k)low = mid+1;
             else high = mid-1;
         }
-        return high+1+k;
+        return low+k;
     }
 };
