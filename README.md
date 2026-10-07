@@ -59,6 +59,7 @@ DSA mastering journey
 | [0151-reverse-words-in-a-string](https://github.com/Raghav18pathak/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Raghav18pathak/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Raghav18pathak/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Raghav18pathak/DSA/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Raghav18pathak/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -178,6 +179,7 @@ DSA mastering journey
 | [0151-reverse-words-in-a-string](https://github.com/Raghav18pathak/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Raghav18pathak/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Raghav18pathak/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Raghav18pathak/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Raghav18pathak/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Raghav18pathak/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Raghav18pathak/DSA/tree/master/1021-remove-outermost-parentheses) |
