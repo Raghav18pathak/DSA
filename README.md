@@ -238,3 +238,23 @@ DSA mastering journey
 | ------- |
 | [0069-sqrtx](https://github.com/Raghav18pathak/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
+
+<!-- COMMITDSA_START -->
+# DSA Portfolio
+
+Welcome to my DSA solutions portfolio! This repository contains my solved problems on LeetCode and GeeksforGeeks, synchronized automatically using [CommitDSA](https://github.com/aprshubh/CommitDSA).
+
+## Statistics
+
+| Platform | Total Solved | Easy | Medium | Hard |
+| --- | --- | --- | --- | --- |
+| LeetCode | 1 | 0 | 1 | 0 |
+| GeeksforGeeks | 0 | 0 | 0 | 0 |
+| **Total** | **1** | **0** | **1** | **0** |
+
+## Solved Problems
+
+| # | Problem | Platform | Difficulty | Language | Code |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/5_LongestPalindromicSubstring.cpp) |
+<!-- COMMITDSA_END -->
