@@ -2,7 +2,7 @@
 DSA mastering journey
 
 <!-- DSA-TABLE-START -->
-Summary: 78 solved (Easy: 29, Medium: 38, Hard: 4, Basic: 2)
+Summary: 79 solved (Easy: 30, Medium: 38, Hard: 4, Basic: 2)
 
 | # | Problem | Platform | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
@@ -84,4 +84,5 @@ Summary: 78 solved (Easy: 29, Medium: 38, Hard: 4, Basic: 2)
 | 76 | [Implement Upper Bound](https://www.naukri.com/code360/problems/implement-upper-bound_816538) | Code360 | - | [Solution](./Code360/Implement-Upper-Bound/solution.cpp) |
 | 77 | [Longest Subarray With Sum K](https://www.naukri.com/code360/problems/longest-subarray-with-sum-k_6682399) | Code360 | - | [Solution](./Code360/Longest-Subarray-With-Sum-K/solution.cpp) |
 | 78 | [Union of Two Sorted Arrays](https://www.naukri.com/code360/problems/sorted-array_6613259) | Code360 | - | [Solution](./Code360/Union-of-Two-Sorted-Arrays/solution.cpp) |
+| 79 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | LeetCode | Easy | [Solution](./Easy/LC-0094-Binary-Tree-Inorder-Traversal/solution.cpp) |
 <!-- DSA-TABLE-END -->
