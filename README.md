@@ -1,260 +1,87 @@
 # DSA
-DSA mastering journey 
+DSA mastering journey
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Raghav18pathak/DSA/tree/master/0001-two-sum) |
-| [0004-median-of-two-sorted-arrays](https://github.com/Raghav18pathak/DSA/tree/master/0004-median-of-two-sorted-arrays) |
-| [0014-longest-common-prefix](https://github.com/Raghav18pathak/DSA/tree/master/0014-longest-common-prefix) |
-| [0015-3sum](https://github.com/Raghav18pathak/DSA/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/Raghav18pathak/DSA/tree/master/0018-4sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0031-next-permutation](https://github.com/Raghav18pathak/DSA/tree/master/0031-next-permutation) |
-| [0033-search-in-rotated-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/Raghav18pathak/DSA/tree/master/0035-search-insert-position) |
-| [0048-rotate-image](https://github.com/Raghav18pathak/DSA/tree/master/0048-rotate-image) |
-| [0053-maximum-subarray](https://github.com/Raghav18pathak/DSA/tree/master/0053-maximum-subarray) |
-| [0054-spiral-matrix](https://github.com/Raghav18pathak/DSA/tree/master/0054-spiral-matrix) |
-| [0073-set-matrix-zeroes](https://github.com/Raghav18pathak/DSA/tree/master/0073-set-matrix-zeroes) |
-| [0074-search-a-2d-matrix](https://github.com/Raghav18pathak/DSA/tree/master/0074-search-a-2d-matrix) |
-| [0075-sort-colors](https://github.com/Raghav18pathak/DSA/tree/master/0075-sort-colors) |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/Raghav18pathak/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
-| [0118-pascals-triangle](https://github.com/Raghav18pathak/DSA/tree/master/0118-pascals-triangle) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghav18pathak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0128-longest-consecutive-sequence](https://github.com/Raghav18pathak/DSA/tree/master/0128-longest-consecutive-sequence) |
-| [0136-single-number](https://github.com/Raghav18pathak/DSA/tree/master/0136-single-number) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0162-find-peak-element](https://github.com/Raghav18pathak/DSA/tree/master/0162-find-peak-element) |
-| [0169-majority-element](https://github.com/Raghav18pathak/DSA/tree/master/0169-majority-element) |
-| [0189-rotate-array](https://github.com/Raghav18pathak/DSA/tree/master/0189-rotate-array) |
-| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
-| [0229-majority-element-ii](https://github.com/Raghav18pathak/DSA/tree/master/0229-majority-element-ii) |
-| [0240-search-a-2d-matrix-ii](https://github.com/Raghav18pathak/DSA/tree/master/0240-search-a-2d-matrix-ii) |
-| [0268-missing-number](https://github.com/Raghav18pathak/DSA/tree/master/0268-missing-number) |
-| [0283-move-zeroes](https://github.com/Raghav18pathak/DSA/tree/master/0283-move-zeroes) |
-| [0410-split-array-largest-sum](https://github.com/Raghav18pathak/DSA/tree/master/0410-split-array-largest-sum) |
-| [0485-max-consecutive-ones](https://github.com/Raghav18pathak/DSA/tree/master/0485-max-consecutive-ones) |
-| [0540-single-element-in-a-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0540-single-element-in-a-sorted-array) |
-| [0560-subarray-sum-equals-k](https://github.com/Raghav18pathak/DSA/tree/master/0560-subarray-sum-equals-k) |
-| [0704-binary-search](https://github.com/Raghav18pathak/DSA/tree/master/0704-binary-search) |
-| [0875-koko-eating-bananas](https://github.com/Raghav18pathak/DSA/tree/master/0875-koko-eating-bananas) |
-| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raghav18pathak/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
-| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Raghav18pathak/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
-| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Raghav18pathak/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
-| [1539-kth-missing-positive-number](https://github.com/Raghav18pathak/DSA/tree/master/1539-kth-missing-positive-number) |
-| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Raghav18pathak/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
-| [2149-rearrange-array-elements-by-sign](https://github.com/Raghav18pathak/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
-## Two Pointers
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Raghav18pathak/DSA/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/Raghav18pathak/DSA/tree/master/0018-4sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0031-next-permutation](https://github.com/Raghav18pathak/DSA/tree/master/0031-next-permutation) |
-| [0075-sort-colors](https://github.com/Raghav18pathak/DSA/tree/master/0075-sort-colors) |
-| [0125-valid-palindrome](https://github.com/Raghav18pathak/DSA/tree/master/0125-valid-palindrome) |
-| [0151-reverse-words-in-a-string](https://github.com/Raghav18pathak/DSA/tree/master/0151-reverse-words-in-a-string) |
-| [0189-rotate-array](https://github.com/Raghav18pathak/DSA/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/Raghav18pathak/DSA/tree/master/0283-move-zeroes) |
-| [0344-reverse-string](https://github.com/Raghav18pathak/DSA/tree/master/0344-reverse-string) |
-| [2149-rearrange-array-elements-by-sign](https://github.com/Raghav18pathak/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
-## Math
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/Raghav18pathak/DSA/tree/master/0013-roman-to-integer) |
-| [0048-rotate-image](https://github.com/Raghav18pathak/DSA/tree/master/0048-rotate-image) |
-| [0069-sqrtx](https://github.com/Raghav18pathak/DSA/tree/master/0069-sqrtx) |
-| [0189-rotate-array](https://github.com/Raghav18pathak/DSA/tree/master/0189-rotate-array) |
-| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
-| [0268-missing-number](https://github.com/Raghav18pathak/DSA/tree/master/0268-missing-number) |
-| [1903-largest-odd-number-in-string](https://github.com/Raghav18pathak/DSA/tree/master/1903-largest-odd-number-in-string) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Raghav18pathak/DSA/tree/master/0001-two-sum) |
-| [0013-roman-to-integer](https://github.com/Raghav18pathak/DSA/tree/master/0013-roman-to-integer) |
-| [0073-set-matrix-zeroes](https://github.com/Raghav18pathak/DSA/tree/master/0073-set-matrix-zeroes) |
-| [0128-longest-consecutive-sequence](https://github.com/Raghav18pathak/DSA/tree/master/0128-longest-consecutive-sequence) |
-| [0169-majority-element](https://github.com/Raghav18pathak/DSA/tree/master/0169-majority-element) |
-| [0205-isomorphic-strings](https://github.com/Raghav18pathak/DSA/tree/master/0205-isomorphic-strings) |
-| [0229-majority-element-ii](https://github.com/Raghav18pathak/DSA/tree/master/0229-majority-element-ii) |
-| [0242-valid-anagram](https://github.com/Raghav18pathak/DSA/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/Raghav18pathak/DSA/tree/master/0268-missing-number) |
-| [0451-sort-characters-by-frequency](https://github.com/Raghav18pathak/DSA/tree/master/0451-sort-characters-by-frequency) |
-| [0560-subarray-sum-equals-k](https://github.com/Raghav18pathak/DSA/tree/master/0560-subarray-sum-equals-k) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/Raghav18pathak/DSA/tree/master/0004-median-of-two-sorted-arrays) |
-| [0033-search-in-rotated-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/Raghav18pathak/DSA/tree/master/0035-search-insert-position) |
-| [0069-sqrtx](https://github.com/Raghav18pathak/DSA/tree/master/0069-sqrtx) |
-| [0074-search-a-2d-matrix](https://github.com/Raghav18pathak/DSA/tree/master/0074-search-a-2d-matrix) |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/Raghav18pathak/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0162-find-peak-element](https://github.com/Raghav18pathak/DSA/tree/master/0162-find-peak-element) |
-| [0240-search-a-2d-matrix-ii](https://github.com/Raghav18pathak/DSA/tree/master/0240-search-a-2d-matrix-ii) |
-| [0268-missing-number](https://github.com/Raghav18pathak/DSA/tree/master/0268-missing-number) |
-| [0410-split-array-largest-sum](https://github.com/Raghav18pathak/DSA/tree/master/0410-split-array-largest-sum) |
-| [0540-single-element-in-a-sorted-array](https://github.com/Raghav18pathak/DSA/tree/master/0540-single-element-in-a-sorted-array) |
-| [0704-binary-search](https://github.com/Raghav18pathak/DSA/tree/master/0704-binary-search) |
-| [0875-koko-eating-bananas](https://github.com/Raghav18pathak/DSA/tree/master/0875-koko-eating-bananas) |
-| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raghav18pathak/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
-| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Raghav18pathak/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
-| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Raghav18pathak/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
-| [1539-kth-missing-positive-number](https://github.com/Raghav18pathak/DSA/tree/master/1539-kth-missing-positive-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/Raghav18pathak/DSA/tree/master/0136-single-number) |
-| [0268-missing-number](https://github.com/Raghav18pathak/DSA/tree/master/0268-missing-number) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Raghav18pathak/DSA/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/Raghav18pathak/DSA/tree/master/0018-4sum) |
-| [0075-sort-colors](https://github.com/Raghav18pathak/DSA/tree/master/0075-sort-colors) |
-| [0169-majority-element](https://github.com/Raghav18pathak/DSA/tree/master/0169-majority-element) |
-| [0229-majority-element-ii](https://github.com/Raghav18pathak/DSA/tree/master/0229-majority-element-ii) |
-| [0242-valid-anagram](https://github.com/Raghav18pathak/DSA/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/Raghav18pathak/DSA/tree/master/0268-missing-number) |
-| [0451-sort-characters-by-frequency](https://github.com/Raghav18pathak/DSA/tree/master/0451-sort-characters-by-frequency) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/Raghav18pathak/DSA/tree/master/0004-median-of-two-sorted-arrays) |
-| [0053-maximum-subarray](https://github.com/Raghav18pathak/DSA/tree/master/0053-maximum-subarray) |
-| [0169-majority-element](https://github.com/Raghav18pathak/DSA/tree/master/0169-majority-element) |
-| [0240-search-a-2d-matrix-ii](https://github.com/Raghav18pathak/DSA/tree/master/0240-search-a-2d-matrix-ii) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Raghav18pathak/DSA/tree/master/0169-majority-element) |
-| [0229-majority-element-ii](https://github.com/Raghav18pathak/DSA/tree/master/0229-majority-element-ii) |
-| [0451-sort-characters-by-frequency](https://github.com/Raghav18pathak/DSA/tree/master/0451-sort-characters-by-frequency) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Raghav18pathak/DSA/tree/master/0053-maximum-subarray) |
-| [0118-pascals-triangle](https://github.com/Raghav18pathak/DSA/tree/master/0118-pascals-triangle) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghav18pathak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0410-split-array-largest-sum](https://github.com/Raghav18pathak/DSA/tree/master/0410-split-array-largest-sum) |
-## Simulation
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/Raghav18pathak/DSA/tree/master/0054-spiral-matrix) |
-| [2149-rearrange-array-elements-by-sign](https://github.com/Raghav18pathak/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
-## Union-Find
-|  |
-| ------- |
-| [0128-longest-consecutive-sequence](https://github.com/Raghav18pathak/DSA/tree/master/0128-longest-consecutive-sequence) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/Raghav18pathak/DSA/tree/master/0048-rotate-image) |
-| [0054-spiral-matrix](https://github.com/Raghav18pathak/DSA/tree/master/0054-spiral-matrix) |
-| [0073-set-matrix-zeroes](https://github.com/Raghav18pathak/DSA/tree/master/0073-set-matrix-zeroes) |
-| [0074-search-a-2d-matrix](https://github.com/Raghav18pathak/DSA/tree/master/0074-search-a-2d-matrix) |
-| [0240-search-a-2d-matrix-ii](https://github.com/Raghav18pathak/DSA/tree/master/0240-search-a-2d-matrix-ii) |
-## Prefix Sum
-|  |
-| ------- |
-| [0410-split-array-largest-sum](https://github.com/Raghav18pathak/DSA/tree/master/0410-split-array-largest-sum) |
-| [0560-subarray-sum-equals-k](https://github.com/Raghav18pathak/DSA/tree/master/0560-subarray-sum-equals-k) |
-## Greedy
-|  |
-| ------- |
-| [0410-split-array-largest-sum](https://github.com/Raghav18pathak/DSA/tree/master/0410-split-array-largest-sum) |
-| [1903-largest-odd-number-in-string](https://github.com/Raghav18pathak/DSA/tree/master/1903-largest-odd-number-in-string) |
-## String
-|  |
-| ------- |
-| [0008-string-to-integer-atoi](https://github.com/Raghav18pathak/DSA/tree/master/0008-string-to-integer-atoi) |
-| [0013-roman-to-integer](https://github.com/Raghav18pathak/DSA/tree/master/0013-roman-to-integer) |
-| [0014-longest-common-prefix](https://github.com/Raghav18pathak/DSA/tree/master/0014-longest-common-prefix) |
-| [0125-valid-palindrome](https://github.com/Raghav18pathak/DSA/tree/master/0125-valid-palindrome) |
-| [0151-reverse-words-in-a-string](https://github.com/Raghav18pathak/DSA/tree/master/0151-reverse-words-in-a-string) |
-| [0205-isomorphic-strings](https://github.com/Raghav18pathak/DSA/tree/master/0205-isomorphic-strings) |
-| [0242-valid-anagram](https://github.com/Raghav18pathak/DSA/tree/master/0242-valid-anagram) |
-| [0344-reverse-string](https://github.com/Raghav18pathak/DSA/tree/master/0344-reverse-string) |
-| [0451-sort-characters-by-frequency](https://github.com/Raghav18pathak/DSA/tree/master/0451-sort-characters-by-frequency) |
-| [0796-rotate-string](https://github.com/Raghav18pathak/DSA/tree/master/0796-rotate-string) |
-| [1021-remove-outermost-parentheses](https://github.com/Raghav18pathak/DSA/tree/master/1021-remove-outermost-parentheses) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raghav18pathak/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-| [1903-largest-odd-number-in-string](https://github.com/Raghav18pathak/DSA/tree/master/1903-largest-odd-number-in-string) |
-## Stack
-|  |
-| ------- |
-| [1021-remove-outermost-parentheses](https://github.com/Raghav18pathak/DSA/tree/master/1021-remove-outermost-parentheses) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raghav18pathak/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-## Bracket Sequences
-|  |
-| ------- |
-| [1021-remove-outermost-parentheses](https://github.com/Raghav18pathak/DSA/tree/master/1021-remove-outermost-parentheses) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raghav18pathak/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-## Trie
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/Raghav18pathak/DSA/tree/master/0014-longest-common-prefix) |
-## String Matching
-|  |
-| ------- |
-| [0796-rotate-string](https://github.com/Raghav18pathak/DSA/tree/master/0796-rotate-string) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0451-sort-characters-by-frequency](https://github.com/Raghav18pathak/DSA/tree/master/0451-sort-characters-by-frequency) |
-## Bucket Sort
-|  |
-| ------- |
-| [0451-sort-characters-by-frequency](https://github.com/Raghav18pathak/DSA/tree/master/0451-sort-characters-by-frequency) |
-## Enumeration
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
-## Number Theory
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
-## Primality Test
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
-## Sieve Theory
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
-## Prime Number Sieve
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/Raghav18pathak/DSA/tree/master/0204-count-primes) |
-## Newton's Method
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/Raghav18pathak/DSA/tree/master/0069-sqrtx) |
-<!---LeetCode Topics End-->
+<!-- DSA-TABLE-START -->
+Summary: 78 solved (Easy: 29, Medium: 38, Hard: 4, Basic: 2)
 
-<!-- COMMITDSA_START -->
-# DSA Portfolio
-
-Welcome to my DSA solutions portfolio! This repository contains my solved problems on LeetCode and GeeksforGeeks, synchronized automatically using [CommitDSA](https://github.com/aprshubh/CommitDSA).
-
-## Statistics
-
-| Platform | Total Solved | Easy | Medium | Hard |
+| # | Problem | Platform | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
-| LeetCode | 1 | 0 | 1 | 0 |
-| GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **1** | **0** | **1** | **0** |
-
-## Solved Problems
-
-| # | Problem | Platform | Difficulty | Language | Code |
-| --- | --- | --- | --- | --- | --- |
-| 1 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/5_LongestPalindromicSubstring.cpp) |
-<!-- COMMITDSA_END -->
+| 1 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | [Solution](./Basic/GFG-1587115621-Array-Search/solution.c) |
+| 2 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | [Solution](./Basic/GFG-4009-Largest-in-Array/solution.c) |
+| 3 | [Square Root](https://practice.geeksforgeeks.org/problems/square-root/1) | GeeksforGeeks | Easy | [Solution](./Easy/GFG-0000-Square-Root/solution.cpp) |
+| 4 | [Array Leaders](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | GeeksforGeeks | Easy | [Solution](./Easy/GFG-1587115620-Array-Leaders/solution.cpp) |
+| 5 | [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | GeeksforGeeks | Easy | [Solution](./Easy/GFG-2259-Number-of-occurrence/solution.cpp) |
+| 6 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | [Solution](./Easy/GFG-3735-Second-Largest/solution.c) |
+| 7 | [Find Kth Rotation](https://practice.geeksforgeeks.org/problems/rotation4723/1) | GeeksforGeeks | Easy | [Solution](./Easy/GFG-4723-Find-Kth-Rotation/solution.cpp) |
+| 8 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | [Solution](./Easy/LC-0001-Two-Sum/solution.cpp) |
+| 9 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | LeetCode | Easy | [Solution](./Easy/LC-0013-Roman-to-Integer/solution.cpp) |
+| 10 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | LeetCode | Easy | [Solution](./Easy/LC-0014-Longest-Common-Prefix/solution.cpp) |
+| 11 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | LeetCode | Easy | [Solution](./Easy/LC-0026-Remove-Duplicates-from-Sorted-Array/solution.cpp) |
+| 12 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | LeetCode | Easy | [Solution](./Easy/LC-0035-Search-Insert-Position/solution.cpp) |
+| 13 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LeetCode | Easy | [Solution](./Easy/LC-0069-Sqrtx/solution.cpp) |
+| 14 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | LeetCode | Easy | [Solution](./Easy/LC-0118-Pascals-Triangle/solution.cpp) |
+| 15 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | Easy | [Solution](./Easy/LC-0121-Best-Time-to-Buy-and-Sell-Stock/solution.cpp) |
+| 16 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | Easy | [Solution](./Easy/LC-0125-Valid-Palindrome/solution.cpp) |
+| 17 | [136. Single Number](https://leetcode.com/problems/single-number/) | LeetCode | Easy | [Solution](./Easy/LC-0136-Single-Number/solution.cpp) |
+| 18 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | LeetCode | Easy | [Solution](./Easy/LC-0169-Majority-Element/solution.cpp) |
+| 19 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | LeetCode | Easy | [Solution](./Easy/LC-0205-Isomorphic-Strings/solution.cpp) |
+| 20 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | LeetCode | Easy | [Solution](./Easy/LC-0242-Valid-Anagram/solution.cpp) |
+| 21 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode | Easy | [Solution](./Easy/LC-0268-Missing-Number/solution.cpp) |
+| 22 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | LeetCode | Easy | [Solution](./Easy/LC-0283-Move-Zeroes/solution.cpp) |
+| 23 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | LeetCode | Easy | [Solution](./Easy/LC-0344-Reverse-String/solution.cpp) |
+| 24 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | LeetCode | Easy | [Solution](./Easy/LC-0485-Max-Consecutive-Ones/solution.cpp) |
+| 25 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | [Solution](./Easy/LC-0704-Binary-Search/solution.cpp) |
+| 26 | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | LeetCode | Easy | [Solution](./Easy/LC-0796-Rotate-String/solution.cpp) |
+| 27 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | LeetCode | Easy | [Solution](./Easy/LC-1021-Remove-Outermost-Parentheses/solution.cpp) |
+| 28 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | LeetCode | Easy | [Solution](./Easy/LC-1539-Kth-Missing-Positive-Number/solution.cpp) |
+| 29 | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | LeetCode | Easy | [Solution](./Easy/LC-1614-Maximum-Nesting-Depth-of-the-Parentheses/solution.cpp) |
+| 30 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | LeetCode | Easy | [Solution](./Easy/LC-1752-Check-if-Array-Is-Sorted-and-Rotated/solution.cpp) |
+| 31 | [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | LeetCode | Easy | [Solution](./Easy/LC-1903-Largest-Odd-Number-in-String/solution.cpp) |
+| 32 | [Aggressive Cows](https://practice.geeksforgeeks.org/problems/aggressive-cows/1) | GeeksforGeeks | Medium | [Solution](./Medium/GFG-0000-Aggressive-Cows/solution.cpp) |
+| 33 | [Count Subarrays with given XOR](https://practice.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | GeeksforGeeks | Medium | [Solution](./Medium/GFG-0000-Count-Subarrays-with-given-XOR/solution.cpp) |
+| 34 | [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | GeeksforGeeks | Medium | [Solution](./Medium/GFG-0000-Largest-subarray-with-0-sum/solution.cpp) |
+| 35 | [Row with Max 1s in Rowwise Sorted](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1) | GeeksforGeeks | Medium | [Solution](./Medium/GFG-0001-Row-with-Max-1s-in-Rowwise-Sorted/solution.cpp) |
+| 36 | [Longest Subarray with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | GeeksforGeeks | Medium | [Solution](./Medium/GFG-0809-Longest-Subarray-with-Sum-K/solution.cpp) |
+| 37 | [Allocate Minimum Pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | GeeksforGeeks | Medium | [Solution](./Medium/GFG-0937-Allocate-Minimum-Pages/solution.cpp) |
+| 38 | [Indexes of Subarray Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksforGeeks | Medium | [Solution](./Medium/GFG-1587115621-Indexes-of-Subarray-Sum/solution.cpp) |
+| 39 | [Find nth root of m](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | GeeksforGeeks | Medium | [Solution](./Medium/GFG-5843-Find-nth-root-of-m/solution.cpp) |
+| 40 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode | Medium | [Solution](./Medium/LC-0005-Longest-Palindromic-Substring/solution.cpp) |
+| 41 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode | Medium | [Solution](./Medium/LC-0008-String-to-Integer-atoi/solution.cpp) |
+| 42 | [15. 3Sum](https://leetcode.com/problems/3sum/) | LeetCode | Medium | [Solution](./Medium/LC-0015-3Sum/solution.cpp) |
+| 43 | [18. 4Sum](https://leetcode.com/problems/4sum/) | LeetCode | Medium | [Solution](./Medium/LC-0018-4Sum/solution.cpp) |
+| 44 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | LeetCode | Medium | [Solution](./Medium/LC-0031-Next-Permutation/solution.cpp) |
+| 45 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | [Solution](./Medium/LC-0033-Search-in-Rotated-Sorted-Array/solution.cpp) |
+| 46 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | [Solution](./Medium/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/solution.cpp) |
+| 47 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | LeetCode | Medium | [Solution](./Medium/LC-0048-Rotate-Image/solution.cpp) |
+| 48 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode | Medium | [Solution](./Medium/LC-0053-Maximum-Subarray/solution.cpp) |
+| 49 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | LeetCode | Medium | [Solution](./Medium/LC-0054-Spiral-Matrix/solution.cpp) |
+| 50 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | LeetCode | Medium | [Solution](./Medium/LC-0073-Set-Matrix-Zeroes/solution.cpp) |
+| 51 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | [Solution](./Medium/LC-0074-Search-a-2D-Matrix/solution.cpp) |
+| 52 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | LeetCode | Medium | [Solution](./Medium/LC-0075-Sort-Colors/solution.cpp) |
+| 53 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | LeetCode | Medium | [Solution](./Medium/LC-0081-Search-in-Rotated-Sorted-Array-II/solution.cpp) |
+| 54 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode | Medium | [Solution](./Medium/LC-0128-Longest-Consecutive-Sequence/solution.cpp) |
+| 55 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | LeetCode | Medium | [Solution](./Medium/LC-0151-Reverse-Words-in-a-String/solution.cpp) |
+| 56 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | LeetCode | Medium | [Solution](./Medium/LC-0153-Find-Minimum-in-Rotated-Sorted-Array/solution.cpp) |
+| 57 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | LeetCode | Medium | [Solution](./Medium/LC-0162-Find-Peak-Element/solution.cpp) |
+| 58 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | LeetCode | Medium | [Solution](./Medium/LC-0189-Rotate-Array/solution.cpp) |
+| 59 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | LeetCode | Medium | [Solution](./Medium/LC-0204-Count-Primes/solution.cpp) |
+| 60 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | LeetCode | Medium | [Solution](./Medium/LC-0229-Majority-Element-II/solution.cpp) |
+| 61 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | LeetCode | Medium | [Solution](./Medium/LC-0240-Search-a-2D-Matrix-II/solution.cpp) |
+| 62 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | LeetCode | Medium | [Solution](./Medium/LC-0451-Sort-Characters-By-Frequency/solution.cpp) |
+| 63 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | LeetCode | Medium | [Solution](./Medium/LC-0540-Single-Element-in-a-Sorted-Array/solution.cpp) |
+| 64 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LeetCode | Medium | [Solution](./Medium/LC-0560-Subarray-Sum-Equals-K/solution.cpp) |
+| 65 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | [Solution](./Medium/LC-0875-Koko-Eating-Bananas/solution.cpp) |
+| 66 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | LeetCode | Medium | [Solution](./Medium/LC-1011-Capacity-To-Ship-Packages-Within-D-Days/solution.cpp) |
+| 67 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | LeetCode | Medium | [Solution](./Medium/LC-1283-Find-the-Smallest-Divisor-Given-a-Threshold/solution.cpp) |
+| 68 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | LeetCode | Medium | [Solution](./Medium/LC-1482-Minimum-Number-of-Days-to-Make-m-Bouquets/solution.cpp) |
+| 69 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | LeetCode | Medium | [Solution](./Medium/LC-2149-Rearrange-Array-Elements-by-Sign/solution.cpp) |
+| 70 | [Minimize Max Distance of Adjacent Gas Stations](https://practice.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | GeeksforGeeks | Hard | [Solution](./Hard/GFG-0000-Minimize-Max-Distance-of-Adjacent-Gas-Stations/solution.cpp) |
+| 71 | [The Painter's Partition Problem-II](https://practice.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) | GeeksforGeeks | Hard | [Solution](./Hard/GFG-1535-The-Painters-Partition-Problem-II/solution.cpp) |
+| 72 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode | Hard | [Solution](./Hard/LC-0004-Median-of-Two-Sorted-Arrays/solution.cpp) |
+| 73 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | LeetCode | Hard | [Solution](./Hard/LC-0410-Split-Array-Largest-Sum/solution.cpp) |
+| 74 | [Ceil The Floor](https://www.naukri.com/code360/problems/ceil-the-floor_630291) | Code360 | - | [Solution](./Code360/Ceil-The-Floor/solution.cpp) |
+| 75 | [Implement Lower Bound](https://www.naukri.com/code360/problems/lower-bound_816511) | Code360 | - | [Solution](./Code360/Implement-Lower-Bound/solution.cpp) |
+| 76 | [Implement Upper Bound](https://www.naukri.com/code360/problems/implement-upper-bound_816538) | Code360 | - | [Solution](./Code360/Implement-Upper-Bound/solution.cpp) |
+| 77 | [Longest Subarray With Sum K](https://www.naukri.com/code360/problems/longest-subarray-with-sum-k_6682399) | Code360 | - | [Solution](./Code360/Longest-Subarray-With-Sum-K/solution.cpp) |
+| 78 | [Union of Two Sorted Arrays](https://www.naukri.com/code360/problems/sorted-array_6613259) | Code360 | - | [Solution](./Code360/Union-of-Two-Sorted-Arrays/solution.cpp) |
+<!-- DSA-TABLE-END -->
